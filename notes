@@ -1,0 +1,15 @@
+29-05-2023
+
+-> Use clockwise and anticlockwise motors seperately. The nutcap type propellors
+are almost always a bad option unless they are from a trusted vendor or the thread
+size is long. If the clockwise and anticlockwise propellors are threaded in the
+clockwise direction, the countertorque might loosen the clockwise propellors.
+(Might be the same reason for my drone accident).
+
+-> Soldering : Tin the wires before soldering. Care must be taken for the heat not
+reach upto the electronics through the wire, as it has high thermal capacity. So
+selection of Wattage of soldering iron according to the wire gauge is essential.
+No need of seperate flux as modern solders come with rosin core. Flux' job is to
+remove the oxides.
+
+
