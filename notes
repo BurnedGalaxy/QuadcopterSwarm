@@ -1,4 +1,4 @@
-29-05-2023
+30-05-2023
 
 -> Use clockwise and anticlockwise motors seperately. The nutcap type propellors
 are almost always a bad option unless they are from a trusted vendor or the thread
@@ -12,4 +12,15 @@ selection of Wattage of soldering iron according to the wire gauge is essential.
 No need of seperate flux as modern solders come with rosin core. Flux' job is to
 remove the oxides.
 
+31-05-2023
+
+-> Almost always charge the LiPo batteries in balance mode, because each cells
+will charge in a uniform way. Minimum cell voltage is 3v, below that LiPo is not
+usable. More about LiPo batteries : https://dronebotworkshop.com/lipo-safety/
+
+01-05-2023
+
+-> NIL
+
+02-05-2023
 
