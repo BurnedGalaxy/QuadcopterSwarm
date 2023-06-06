@@ -39,3 +39,8 @@ usable. More about LiPo batteries : https://dronebotworkshop.com/lipo-safety/
 -> NIL
 
 05-06-2023
+
+-> GPS' forward should be Drone's forward
+-> The two antennas of the radio receiver should be perpendicular
+
+06-06-2023
