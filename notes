@@ -44,3 +44,26 @@ usable. More about LiPo batteries : https://dronebotworkshop.com/lipo-safety/
 -> The two antennas of the radio receiver should be perpendicular
 
 06-06-2023
+
+-> NIL
+
+07-06-2023
+
+-> Accel Calibration: Simple accel should be done only if we are taking copter
+after a month of being idle or for big copters which need quick calibration.
+For proper calibration simple accel calibration should be avoided
+-> Compass Calibration: Compass calibration is best when done away from magnets
+and metals.
+-> Positive pitch is backwards, so we should reverse the channel 2.
+-> Mah decreases over time as it depends on the number of electrolytes, but
+voltage is constant as it depends on the battery chemistry
+-> Full parameter list in Mission planner contains everything if we want to
+modify something.
+
+08-06-2023
+
+-> NIL
+
+09-06-2023
+
+->
