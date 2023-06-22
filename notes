@@ -86,4 +86,25 @@ modify something.
 
 14-06-2023
 
-->
+-> NIL
+
+15-06-2023
+
+-> NIL
+
+20-06-2023
+
+-> Aviation conceptes, Propwash effect, propellor torque effect
+
+21-06-2023
+
+-> To find the PID values for tuning, we need to know the dynamics of the quadcopter
+and should simulate it to get the values. It generally comes with experience.
+-> The ideal motor to motor (adjacent) ratio should be 1.2 to 1.5 times the
+diameter.
+-> Weight/Tmax = 0.5 to 0.7 . Generally we wont go upto 0.7 beacuse it is not
+a good value in air noisy environments.
+-> Thrust to PWM graph.
+-> Theta_c proportional to 4 times del_T. Where Theta_c is the amount pitched,
+del_T is the change in Thrust
+

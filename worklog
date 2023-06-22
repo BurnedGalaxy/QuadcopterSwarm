@@ -1,4 +1,4 @@
-30/05/2023
+3/05/2023
 
 -> Frame Assembly of S500 Done
 -> Soldering power module done
@@ -23,7 +23,6 @@
 -> Nil
 
 04/06/2023
-
 -> Nil
 
 05/06/2023
@@ -69,3 +68,34 @@ error
 -> Solved the error. Installed dronekit, MAVProxy and other dependencies.
 
 14/06/2023
+
+-> Worked on simulation
+
+15/06/2023
+
+-> Worked on simulation
+
+16/06/2023
+
+-> Documentation
+
+17/06/2023
+
+-> Nil
+
+18/06/2023
+
+-> Nil
+
+19/06/2023
+
+-> Documentation
+
+20/06/2023
+
+-> Documentation
+
+21/06/2023
+
+-> Concepts regarding PWM vs Thrust graph, PID values. Assembling another drone.
+Assembling another Drone.
