@@ -1,7 +1,7 @@
 ###############################################################
-##               Library for working with drones             ##
-##                       Based on pymavlink                  ##
-##                 Created by Ahmed Razim, Jul 2023          ##
+##           Library for working with multirotors            ##
+##                    Based on pymavlink                     ##
+##             Created by Ahmed Razim, Jul 2023              ##
 ###############################################################
 
 from pymavlink import mavutil
